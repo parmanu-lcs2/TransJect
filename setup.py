@@ -13,12 +13,12 @@ with open("src/transject/__version__.py", "r") as f:
 setup(
     name="transject",
     version=version['__version__'],
-    author="Ayan Sengupta, Md. Shad Akhtar, Tanmoy Chakraborty",
+    author="Parmanu, LCS2, IIT Delhi",
     author_email="",
     description="Manifold-Preserving Transformer Framework for NLP Tasks",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/victor7246/TransJect",
+    url="https://github.com/parmanu-lcs2/TransJect",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[
@@ -69,7 +69,7 @@ setup(
     include_package_data=True,
     keywords="transformer knowledge-distillation manifold-learning nlp deep-learning pytorch",
     project_urls={
-        "Bug Reports": "https://github.com/victor7246/TransJect/issues",
-        "Source": "https://github.com/victor7246/TransJect",
+        "Bug Reports": "https://github.com/parmanu-lcs2/TransJect/issues",
+        "Source": "https://github.com/parmanu-lcs2/TransJect",
     },
 )
