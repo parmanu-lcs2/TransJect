@@ -17,6 +17,12 @@ TransJect is a transformer framework that uses orthogonal transformations to pre
 pip install git+https://github.com/parmanu-lcs2/TransJect.git
 ```
 
+### or via pypi
+
+```bash
+pip install transject
+```
+
 ## Quick Start
 
 ### NEW API (Recommended)
