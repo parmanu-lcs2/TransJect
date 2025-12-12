@@ -11,9 +11,7 @@ requires-python = ">=3.8"
 license = {text = "MIT"}
 keywords = ["transformer", "manifold-learning", "nlp", "deep-learning", "pytorch", "classification", "language-modeling"]
 authors = [
-    {name = "Ayan Sengupta"},
-    {name = "Md. Shad Akhtar"},
-    {name = "Tanmoy Chakraborty"}
+    {name = "Parmanu, LCS2, IIT Delhi"},
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -52,9 +50,9 @@ logging = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/victor7246/TransJect"
-"Bug Reports" = "https://github.com/victor7246/TransJect/issues"
-Source = "https://github.com/victor7246/TransJect"
+Homepage = "https://github.com/parmanu-lcs2/TransJect"
+"Bug Reports" = "https://github.com/parmanu-lcs2/TransJect/issues"
+Source = "https://github.com/parmanu-lcs2/TransJect"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
